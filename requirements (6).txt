@@ -16,6 +16,7 @@ xmltodict
 validators
 pypdf
 pymupdf
+pypi
 unstructured
 arxiv
 wikipedia
